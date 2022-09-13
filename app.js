@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf')
 const axios = require('axios')
 const fs = require('fs')
-const bot = new Telegraf('1379933687:AAGTgy1goqSsaVBmGzl28-U9WN3XX8b3saY')
+const bot = new Telegraf('token_bot_kamu')
 const handlerMsg = `
 Hi,
 Berikut adalah beberapa fitur yang ada di bot ini!
